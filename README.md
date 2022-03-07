@@ -7,3 +7,4 @@
 * 💚 __Desenvolvimento Web__ 💚
 * 💙 __Desenvolvimento de jogos__ 💙
 * 💜 __Desenvolvimento de softwares__ 💜
+ 
