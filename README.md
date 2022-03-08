@@ -5,12 +5,12 @@
 [![Image.Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4ttPizz4)
 
  **Alguém apaixonado por:**
-* ❤️ __programação__ ❤️
-* 🧡 __Modelagem 3D__ 🧡
-* 💛 __Ciências da computação__ 💛
-* 💚 __Desenvolvimento Web__ 💚
-* 💙 __Desenvolvimento de jogos__ 💙
-* 💜 __Desenvolvimento de softwares__ 💜
+* ❤️ __**Programação**__ ❤️
+* 🧡 __**Modelagem 3D**__ 🧡
+* 💛 __**Ciências da computação**__ 💛
+* 💚 __**Desenvolvimento Web**__ 💚
+* 💙 __**Desenvolvimento de Jogos**__ 💙
+* 💜 __**Desenvolvimento de Softwares**__ 💜
  
 [![card](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
