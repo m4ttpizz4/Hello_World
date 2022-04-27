@@ -12,6 +12,8 @@
 * 💙 __**Desenvolvimento de Jogos**__ 💙
 * 💜 __**Desenvolvimento de Softwares**__ 💜
  
+ >**Estou atualmente cursando Ciências da computação em meu primeiro semestre, logo sou muito novo na área**
+ 
 [![cards](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
 [![card.coding](https://github-readme-stats.vercel.app/api/top-langs/?username=M4ttPizz4&hide=html&layout=compact&theme=tokyonight)](https://github.com/M4ttPizz4/)
