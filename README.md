@@ -25,7 +25,7 @@
  3º
  ![image.JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
- ![michirureading](https://user-images.githubusercontent.com/100164090/157138658-299ff193-3ab8-4f0f-8760-13d06e555f55.png)
+ ![najimiosana](https://otakukart.com/wp-content/uploads/2022/04/najimi.jpg)
  
 [![card](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
