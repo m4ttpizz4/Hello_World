@@ -27,7 +27,7 @@
  
  ![michirureading](https://user-images.githubusercontent.com/100164090/157138658-299ff193-3ab8-4f0f-8760-13d06e555f55.png)
  
-[![cards](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
+[![card](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
 [![card.coding](https://github-readme-stats.vercel.app/api/top-langs/?username=M4ttPizz4&hide=html&layout=compact&theme=tokyonight)](https://github.com/M4ttPizz4/)
 
