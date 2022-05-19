@@ -13,6 +13,15 @@
 * 💚 __**Desenvolvimento Web**__ 💚
 * 💙 __**Desenvolvimento de Jogos**__ 💙
 * 💜 __**Desenvolvimento de Softwares**__ 💜
+
+>**Linguagens favoritas:**
+ 
+ 1º
+ ![image.C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ 2º
+ ![image.C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ 3º
+ ![image.JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
  ![michirureading](https://user-images.githubusercontent.com/100164090/157138658-299ff193-3ab8-4f0f-8760-13d06e555f55.png)
  
