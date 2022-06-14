@@ -29,7 +29,7 @@
  3º
  ![image.JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
- ![najimiosana](https://otakukart.com/wp-content/uploads/2022/04/najimi.jpg)
+ ![najimiosana](https://i.pinimg.com/564x/36/5c/ba/365cbab4c5af65d5594737a9e02b48a9.jpg)
  
 [![card](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
