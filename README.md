@@ -29,7 +29,7 @@
  3º
  ![image.JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
- ![najimiosana](https://i.pinimg.com/564x/36/5c/ba/365cbab4c5af65d5594737a9e02b48a9.jpg)
+ ![ririka](https://static.wikia.nocookie.net/kakegurui/images/3/31/Kakegurui_anime_episode_2_Ririka_Momobami_profile_image.PNG/revision/latest?cb=20180521185239)
  
 [![card](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
