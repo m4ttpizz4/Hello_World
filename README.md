@@ -1,6 +1,6 @@
 ## Quem_sou_eu
 
->**Estou atualmente cursando Ciências da computação em meu primeiro semestre, logo sou muito novo na área.**
+>**Estou atualmente cursando Ciências da computação em meu segundo semestre.**
 
 **Redes sociais:**
 
