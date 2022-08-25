@@ -29,7 +29,7 @@
  3º
  ![image.JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
- ![Michiru](https://thedailyfandom.org/the-colorful-world-of-bna/)
+ ![Michiru](https://storage.googleapis.com/stateless-thedailyfandom-org/2020/09/ffaa1df8-mv5bmzixyzk4ndmtndgyzc00otg2lwiymtutzmi4nmm2odcxm2i3xkeyxkfqcgdeqxvymtezotk4mzkw._v1_.jpg)
  
 [![card](https://github-readme-stats.vercel.app/api?username=M4ttPizz4&theme=tokyonight&show_icons=true)](https://github.com/M4ttPizz4/)
 
