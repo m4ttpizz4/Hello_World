@@ -1,6 +1,7 @@
 # Quem_sou_eu
 
->**Estou atualmente cursando Ciências da computação em meu terceiro semestre.**
+>**Estou atualmente cursando Ciências da computação em meu
+4° semestre.**
 
 **Redes sociais:**
 
@@ -21,7 +22,7 @@
  ![image.C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  
  3º
- ![image.Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+ ![image.Java](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
  
  [![card.coding](https://github-readme-stats.vercel.app/api/top-langs/?username=M4ttPizz4&hide=html&layout=compact&theme=tokyonight)](https://github.com/M4ttPizz4/)
  
