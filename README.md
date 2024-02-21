@@ -1,7 +1,3 @@
-**Redes sociais:**
-
-[![Imagem.Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4ttPizz4)
-
 >**Linguagens favoritas:**
  
  1º
