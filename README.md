@@ -1,17 +1,6 @@
-# Quem_sou_eu
-
->**Estou atualmente cursando Ciências da computação em meu
-4° semestre.**
-
 **Redes sociais:**
 
-[![Imagem.Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-868225229/)
-
-[![Imagem.Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4tt_pizz4/)
-
 [![Imagem.Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4ttPizz4)
-
-[![Imagem.Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079277753917)
 
 >**Linguagens favoritas:**
  
